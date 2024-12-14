@@ -33,7 +33,9 @@ class Program {
             Speed = 240,
         };
 
-        Raylib.InitWindow( WIN_WIDTH, WIN_HEIGHT, "Pong clone" );
+        Raylib.InitWindow( WIN_WIDTH, WIN_HEIGHT, "Multiplayer Pong" );
+        Raylib.SetTargetFPS( 60 );
+        Raylib.SetWindowIcon(Raylib.LoadImage("raylib.ico"));
 
         while (!Raylib.WindowShouldClose()) {
             var deltaTime = Raylib.GetFrameTime();

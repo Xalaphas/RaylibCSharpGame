@@ -20,3 +20,4 @@ c:\Users\xalph\OneDrive\Documentos\Audiovisual\Game Dev\Jogos Raylib\RaylibCShar
 c:\Users\xalph\OneDrive\Documentos\Audiovisual\Game Dev\Jogos Raylib\RaylibCSharpGame\MyFirstCsGame\obj\Debug\net8.0\MyFirstCsGame.pdb
 c:\Users\xalph\OneDrive\Documentos\Audiovisual\Game Dev\Jogos Raylib\RaylibCSharpGame\MyFirstCsGame\obj\Debug\net8.0\MyFirstCsGame.genruntimeconfig.cache
 c:\Users\xalph\OneDrive\Documentos\Audiovisual\Game Dev\Jogos Raylib\RaylibCSharpGame\MyFirstCsGame\obj\Debug\net8.0\ref\MyFirstCsGame.dll
+c:\Users\xalph\OneDrive\Documentos\Audiovisual\Game Dev\Jogos Raylib\RaylibCSharpGame\MyFirstCsGame\obj\Debug\net8.0\MyFirstCsGame.sourcelink.json
